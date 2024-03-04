@@ -8,6 +8,10 @@ This project is a Discord meme bot developed using Python 3. It's designed to br
 
 This repository hosts the source code for the Discord meme bot. Feel free to explore, contribute, or use it in your own Discord server!
 
+## CodeDex project
+You can check my CodeDex project post of this project at [this link](https://www.codedex.io/community/final-project/qojYVjkb164iWCvxS42i).
+
+
 ## Features
 
 - Access to a vast database of memes.
