@@ -2,6 +2,8 @@
 
 This project is a Discord meme bot developed using Python 3. It's designed to bring joy and laughter to your Discord server by providing a wide range of memes and funny content.
 
+
+![Screenshot](screenshot.png)
 ## Repository
 
 This repository hosts the source code for the Discord meme bot. Feel free to explore, contribute, or use it in your own Discord server!
