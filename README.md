@@ -5,6 +5,7 @@ This project is a Discord meme bot developed using Python 3. It's designed to br
 
 ![Screenshot](screenshot.PNG)
 ## Repository
+![certification]_( https://www.credential.net/e64dc1a0-d27b-41a3-ab4b-815c1759af7f)
 
 This repository hosts the source code for the Discord meme bot. Feel free to explore, contribute, or use it in your own Discord server!
 
